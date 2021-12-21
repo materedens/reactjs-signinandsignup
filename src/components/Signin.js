@@ -34,9 +34,9 @@ const Signin = () => {
                        Forgot Password ?
                  </Link>
                  </Typography>
-                 <Typography> Do you have an account ?
+                 <Typography> Dont have an account ?
                  <Link href="#">
-                       Sign In
+                       Sign Up
                  </Link>
                  </Typography>
              </Paper>

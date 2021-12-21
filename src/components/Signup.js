@@ -4,7 +4,7 @@ import { FormControlLabel } from '@mui/material';
 import { Checkbox } from '@mui/material';
 import AccountCircleOutlinedIcon from '@mui/icons-material/AccountCircleOutlined';
 const Signup = () => {
-    const paperStyle={padding: '30px 20px', width: 500, margin: "40px auto", backgroundColor:'#f9f6f6'}
+    const paperStyle={padding: '30px 20px', width: 500, margin: "40px auto", backgroundColor:'#619bfb42'}
     const avatarStyle={backgroundColor: '#1bbd7e' }
     const headerStyle={margin: 0}
     const textfieldStyle={margin:'10px'}
